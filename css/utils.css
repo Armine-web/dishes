@@ -1,0 +1,90 @@
+.d-flex {
+    display: flex;
+}
+.spase-between {
+    justify-content: space-between;
+}
+.center{
+    justify-content: center;
+ }
+.aligan-center{
+    align-items: center;
+}
+.align-center {
+    align-items: center;
+  }
+.subhead {
+    font-size: 20px;
+    line-height: 0.1;
+    margin-bottom: 60px;
+}
+.vh {
+    height: 100vh;
+}
+
+.p-wraper {
+    padding: 30px;
+}
+.p-container {
+    padding: 20px;
+}
+
+.auto {
+    margin: auto;
+}
+.m-t{
+    margin-top: 20px;
+}
+.m-t-hier{
+    margin-top: 40px;
+}
+.m-b {
+    margin-bottom: 30px;
+}
+.m-l{
+    margin-left: 20px;
+}
+.w-heading-box{
+    width: 78%;
+}
+
+.w-avatar{
+    width: 150px;
+}
+.h-avatar{
+    height: 150px;
+}
+.w-box {
+    width: 80%;
+}
+
+.b-bottom {
+    border-bottom: 1px dashed #a7a3a3;
+}
+
+.center{
+    text-align: start;
+}
+.radius-avatar {
+    border-radius: 50%;
+}
+.underline {
+    text-decoration: none;
+}
+.b-r {
+    border-right: 1px solid #cdc8c8;
+}
+.padding-link{
+    padding: 0 10px;
+}
+.italic{
+    font-style: italic;
+}
+.w-dish{
+    width: 50%;
+}
+.cover {
+    object-fit: cover;
+    width: 100%;
+}
+

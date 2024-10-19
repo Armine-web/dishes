@@ -1,0 +1,23 @@
+  :root{
+    --color-links: #ff1a1a;
+    --color-background: #f5f5f5;
+    --color-avatar: #a3c2c2;
+    --color-box: #fff;
+    --text-color-link: #262424;
+
+    --shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+
+    --font-size-large: 24px;
+    --font-size-medium: 20px;
+    --font-size-to-medium: 16px;
+    --font-size-small: 12px;
+    --font-weight-normal: 400;
+    --font-weight-bold: 700;
+    --line-height-base: 2;
+    --line-height-heading: 2.2;
+
+    --text-decoration: underline;
+  }
+
+
+
